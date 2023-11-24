@@ -110,7 +110,7 @@ cp -r resources/ Debug/
 </p>
 
 <p align="center">
-	<video src="resources/img/simu.png" width="400">
+	<img src="resources/img/simu.png" width="400">
 </p>
 
 You can also see a simulation running in `resources/img/demo.mp4`.
